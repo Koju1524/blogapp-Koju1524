@@ -1,4 +1,4 @@
-.article
+.article#article-show{data: {article_id: @article.id}}
   %h1.article_title= @article.title
   .article_detail
     = link_to account_path(@article.user) do
