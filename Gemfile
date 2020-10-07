@@ -30,6 +30,7 @@ gem 'devise'
 gem 'faker'
 gem 'hamlit'
 gem 'active_model_serializers'
+gem 'sidekiq'
 
 gem 'sendgrid-ruby'
 
