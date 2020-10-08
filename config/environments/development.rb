@@ -49,7 +49,7 @@ Rails.application.configure do
     :port => 587,
     :domain => 'smtp.sendgrid.net',
     :user_name => "apikey",
-    :password => "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",
+    :password => "",
     :authentication => :plain
   }
   # Print deprecation notices to the Rails logger.
